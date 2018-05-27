@@ -31,7 +31,7 @@
     "helper-copyright": "^2.1.1",
     "helper-date": "^0.2.2",
     "helper-issue": "^0.3.0",
-    "helper-reflinks": "^3.2.1",
+    "helper-reflinks": "github:stefanwalther/helper-reflinks#npm-fix",
     "helper-related": "^0.15.1",
     "is-valid-app": "^0.2.1",
     "lazy-cache": "^2.0.1",
