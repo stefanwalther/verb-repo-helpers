@@ -32,7 +32,7 @@
     "helper-date": "^0.2.2",
     "helper-issue": "^0.3.0",
     "helper-reflinks": "github:stefanwalther/helper-reflinks#npm-fix",
-    "helper-related": "^0.15.1",
+    "helper-related": "github:stefanwalther/helper-related#npm-fix",
     "is-valid-app": "^0.2.1",
     "lazy-cache": "^2.0.1",
     "mixin-deep": "^1.1.3"
